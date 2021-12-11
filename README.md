@@ -49,7 +49,7 @@
 
 ---
 + [edit](https://github.com/sapletta/sapletta/edit/main/README.md)
-+ [sapletta/www](https://github.com/sapletta/sapletta)
++ [sapletta/sapletta](https://github.com/sapletta/sapletta)
 ```
 https://github.com/sapletta/sapletta.git
 ```
