@@ -12,11 +12,11 @@
 
 + [Modularyzacja przy wytwarzaniu oprogramowania - hipermodularyzacja.pl](https://www.hipermodularyzacja.pl/)
 + [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja](https://www.modularyzacja.pl/)
-+ [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
-+ [SaaS is the King - saasisking.com](https://www.saasisking.com/)
 + [About our modules](https://modules.webstream.dev)
 + [microfrontend.org](https://microfrontend/org) 
 
++ [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
++ [SaaS is the King - saasisking.com](https://www.saasisking.com/)
 
 ## Przedsiębiorca
 
