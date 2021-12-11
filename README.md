@@ -16,6 +16,8 @@ About Me:
 + [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja](https://www.modularyzacja.pl/)
 + [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
 + [SaaS is the King - saasisking.com](https://www.saasisking.com/)
++ [About our modules](https://modules.webstream.dev)
++ [microfrontend.org](https://microfrontend/org) 
 
 
 ## Przedsiębiorca
@@ -30,3 +32,22 @@ About Me:
 + [2030 - pro2030.com](https://www.pro2030.com/#/)
 + [2040 - p2040.com](https://www.p2040.com/#/)
 + [2050 - pro2050.com](https://www.pro2050.com/#/)
+
+
+
+
+
+## About Tom Sapletta
+
++ [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
+
+
+---
++ [edit](https://github.com/sapletta/sapletta/edit/main/README.md)
++ [sapletta/www](https://github.com/sapletta/sapletta)
+```
+https://github.com/sapletta/sapletta.git
+```
