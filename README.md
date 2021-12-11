@@ -1,7 +1,5 @@
 # Tom Sapletta
 
-About Me:
-
 ## Ekspata (expat)
 
 
@@ -23,7 +21,7 @@ About Me:
 ## Przedsiębiorca
 
 + [domeno Doradca .pl](https://www.domenodoradca.pl/)
-+ [Softreck - Leadership Through Software Development](https://softreck.com/)
++ + [Softreck Company - Leadership Through Software Development](https://softreck.com/)
 
 
 
@@ -35,13 +33,16 @@ About Me:
 
 
 
+## Blogi
+
++ [EN: Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [PL: Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.pl/)
 
 
-## About Tom Sapletta
+## Kontakt
 
 + [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
-+ [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
-+ [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
 
 
 
