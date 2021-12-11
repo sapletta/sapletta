@@ -9,3 +9,20 @@
 
 
 ## Entuzjasta
+
++ [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
++ [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja](https://www.modularyzacja.pl/)
++ [Hyper Modularity](https://www.hypermodularity.com/)
++ [SaaS is King](https://www.saasisking.com/)
+
+
+## Domainer
+
++ [domeno Doradca .pl](https://www.domenodoradca.pl/)
+
+
+## Wizjoner
+
++ [pro2030.com](https://www.pro2030.com/#/)
++ [p2040.com](https://www.p2040.com/#/)
++ [pro2050.com](https://www.pro2050.com/#/)
