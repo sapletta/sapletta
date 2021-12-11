@@ -11,18 +11,18 @@
 ## Entuzjasta
 
 + [Modularyzacja przy wytwarzaniu oprogramowania - hipermodularyzacja.pl](https://www.hipermodularyzacja.pl/)
-+ [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja](https://www.modularyzacja.pl/)
-+ [About our modules](https://modules.webstream.dev)
-+ [microfrontend.org](https://microfrontend/org) 
++ [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja - modularyzacja.pl](https://www.modularyzacja.pl/)
++ [WebStream modules - modules.webstream.dev](https://modules.webstream.dev)
++ [MicroFrontend - microfrontend.org](https://microfrontend/org) 
 
 + [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
 + [SaaS is the King - saasisking.com](https://www.saasisking.com/)
 
 ## Przedsiębiorca
 
-+ [domeno Doradca .pl](https://www.domenodoradca.pl/)
-+ [Softreck Polska - Leadership Through Software Development](https://softreck.pl/)
-+ [Softreck Europe - Leadership Through Software Development](https://softreck.com/)
++ [domeno Doradca - domenodoradca.pl](https://www.domenodoradca.pl/)
++ [Softreck Polska - Leadership Through Software Development - softreck.pl](https://softreck.pl/)
++ [Softreck Europe - Leadership Through Software Development - softreck.com](https://softreck.com/)
 
 
 
