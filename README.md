@@ -5,17 +5,17 @@ About Me:
 ## Ekspata (expat)
 
 
-+ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
-+ [Rezydent Podatkowy Niemiec](https://www.rezydent.de/)
-+ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de/)
++ [Jak zostać nierezydentem polskim?  nierezydent.pl](https://www.nierezydent.pl/)
++ [Rezydent Podatkowy Niemiec - rezydent.de](https://www.rezydent.de/)
++ [Dlaczego warto robić biznes w Niemczech?  dlaczego.de](https://www.dlaczego.de/)
 
 
 ## Entuzjasta
 
-+ [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
++ [Modularyzacja przy wytwarzaniu oprogramowania - hipermodularyzacja.pl](https://www.hipermodularyzacja.pl/)
 + [Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja](https://www.modularyzacja.pl/)
-+ [Hyper Modularity](https://www.hypermodularity.com/)
-+ [SaaS is King](https://www.saasisking.com/)
++ [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
++ [SaaS is the King - saasisking.com](https://www.saasisking.com/)
 
 
 ## Przedsiębiorca
@@ -27,6 +27,6 @@ About Me:
 
 ## Wizjoner
 
-+ [pro2030.com](https://www.pro2030.com/#/)
-+ [p2040.com](https://www.p2040.com/#/)
-+ [pro2050.com](https://www.pro2050.com/#/)
++ [2030 - pro2030.com](https://www.pro2030.com/#/)
++ [2040 - p2040.com](https://www.p2040.com/#/)
++ [2050 - pro2050.com](https://www.pro2050.com/#/)
