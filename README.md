@@ -16,9 +16,11 @@
 + [SaaS is King](https://www.saasisking.com/)
 
 
-## Domainer
+## Przedsiębiorca
 
 + [domeno Doradca .pl](https://www.domenodoradca.pl/)
++ [Softreck - Leadership Through Software Development](https://softreck.com/)
+
 
 
 ## Wizjoner
