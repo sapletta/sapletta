@@ -1,4 +1,6 @@
-# Tom Sapletta, About Me
+# Tom Sapletta
+
+About Me:
 
 ## Ekspata (expat)
 
