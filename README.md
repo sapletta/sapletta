@@ -21,8 +21,8 @@
 ## Przedsiębiorca
 
 + [domeno Doradca .pl](https://www.domenodoradca.pl/)
-+ [Softreck - Polska - Leadership Through Software Development](https://softreck.pl/)
-+ [Softreck - Global - Leadership Through Software Development](https://softreck.com/)
++ [Softreck Polska - Leadership Through Software Development](https://softreck.pl/)
++ [Softreck Europe - Leadership Through Software Development](https://softreck.com/)
 
 
 
