@@ -1,4 +1,4 @@
-# [Tom Sapletta](https://sapletta.github.io/sapletta/)
+# About [Tom Sapletta](https://sapletta.github.io/sapletta/)
 
 Tom Sapletta is a researcher at [Softreck](https://softreck.com/) Company and book writer. 
 
@@ -9,8 +9,9 @@ Tom also works on fast, scalable infrastructure for software houses, called: [on
 Tom is member of [API Foundation](https://www.apifoundation.com/)
 
 
-## Ekspata (expat)
+# Projekty 
 
+## Ekspata (expat)
 
 + [Jak zostać nierezydentem polskim?  nierezydent.pl](https://www.nierezydent.pl/)
 + [Rezydent Podatkowy Niemiec - rezydent.de](https://www.rezydent.de/)
@@ -24,15 +25,11 @@ Tom is member of [API Foundation](https://www.apifoundation.com/)
 + [WebStream modules - modules.webstream.dev](https://modules.webstream.dev)
 
 
-+ [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
-+ [SaaS is the King - saasisking.com](https://www.saasisking.com/)
-
 ## Przedsiębiorca
 
-+ [domeno Doradca - domenodoradca.pl](https://www.domenodoradca.pl/)
++ [Domeno Doradca - domenodoradca.pl](https://www.domenodoradca.pl/)
 + [Softreck Polska - Leadership Through Software Development - softreck.pl](https://softreck.pl/)
 + [Softreck Europe - Leadership Through Software Development - softreck.com](https://softreck.com/)
-
 
 
 ## Wizjoner
@@ -41,19 +38,35 @@ Tom is member of [API Foundation](https://www.apifoundation.com/)
 + [2040 - p2040.com](https://www.p2040.com/#/)
 + [2050 - pro2050.com](https://www.pro2050.com/#/)
 
+## Usługi IT
+
++ [Usługa SaaS dla firmy w jeden dzień - OneDayRun.com](https://www.onedayrun.com/)
+
+
+## Projekty Opensource
+
++ [Domain-specific language - apidsl](https://www.apidsl.com/)
++ [apiFoundation](https://www.apifoundation.com/)
+
+
+## Książki, Books, Podcasts
+
++ [Hyper Modularity - hypermodularity.com](https://www.hypermodularity.com/)
++ [SaaS is the King - saasisking.com](https://www.saasisking.com/)
++ [programista w niemczech](https://www.programista.de/)
+
 
 
 ## Blogi
 
 + [EN: Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [DE: Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.de/)
 + [PL: Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.pl/)
 
 
 ## Kontakt
 
 + [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
-
-
 
 
 ---
